@@ -1,2 +1,2 @@
 # Myver Site
-Coming Soon... maybe
+Basically my site
